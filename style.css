@@ -4,14 +4,15 @@
     --cor-de-fundo: #78aaf0;
     --verde:#f4f4f5;
     --branco:#f7f5f5;
-    --botao-ativo:#db3dd8;
-    --botao-inativo: rgba(228, 171, 218, 0.5);
-    --texto-fundo: rgba(207, 8, 243, 0.3);
+    --botao-ativo:#0aa8f7;
+    --botao-inativo: rgba(55, 155, 209, 0.5);
+    --texto-fundo: rgba(8, 161, 243, 0.84);
+    color: rgb(112, 217, 226);
 }
 
 
 body{
-background-color: rgba(232, 182, 226, 0.866);
+background-color: rgba(66, 178, 222, 0.866);
 font-family: 'lobster', sans-serif;
 }
 
